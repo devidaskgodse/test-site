@@ -2,3 +2,62 @@ baseURL = "https://devidaskgodse.github.io/test-site/"
 languageCode = "en-us"
 title = "My Test Hugo Site"
 theme="archie"
+
+copyright = "© Devidas K Godse"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="light"
+	useCDN=false
+	subtitle = "My tiny piece of the internet"
+
+# Social handles
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/devidaskgodse"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/athulcajay/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/devidaskgodse"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/devidaskgodse/"
+
+
+# Navigation Menu
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Notes"
+url = "/notes"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
