@@ -1,5 +1,5 @@
 ---
-title: "~~monsters~~ marketers behind the story"
+title: "Marketers behind the story"
 date: 2022-09-27 7:27:00 +0530
 #tags: []
 ---

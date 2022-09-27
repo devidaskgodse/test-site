@@ -4,17 +4,16 @@ date: 2022-09-27 06:35:00 +0530
 ---
 
 
-## Reading and Writing
-- Pocket
-- Overleaf
-- Hemingway Editor
+## Reading and Content Writing
+- [Hemingway Editor](http://www.hemingwayapp.com/)
 - WordCounter
-- bibtex-tidy
-- Protected text
-- Scribbr
+- [bibtex-tidy](https://flamingtempura.github.io/bibtex-tidy/)
+- [Protected text](https://www.protectedtext.com/)
 
 ## Misc
-- ';--have i been pwned?
-- Table generator
-- 10 minute mail
-- LaTeX equation editor
+- [';--have i been pwned?](https://haveibeenpwned.com/)
+- [Table generator](https://www.tablesgenerator.com/)
+- [10 minute mail](https://10minutemail.com/)
+- [LaTeX equation editor](https://latex.codecogs.com/eqneditor/editor.php)
+- [When2meet](https://www.when2meet.com/)
+- 
