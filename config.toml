@@ -1,0 +1,4 @@
+baseURL = "https://devidaskgodse.github.io/test-site/"
+languageCode = "en-us"
+title = "My Test Hugo Site"
+theme="archie"
