@@ -1,6 +1,6 @@
 baseURL = "https://devidaskgodse.github.io/test-site/"
 languageCode = "en-us"
-title = "Devidas K Godse"
+title = "My Test Hugo Site"
 theme="archie"
 
 copyright = "© Devidas K Godse"
@@ -13,11 +13,6 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "My tiny piece of the internet"
 
 # Social handles
-
-[[params.social]]
-name = "Mail"
-icon = "mail"
-url = "mailto:devidaskgodse+website@gmail.com"
 
 [[params.social]]
 name = "GitHub"
@@ -58,16 +53,11 @@ url = "/notes"
 weight = 3
 
 [[menu.main]]
-name = "Resources"
-url = "/resources"
-weight = 4
-
-[[menu.main]]
-name = "Tools"
-url = "/tools"
-weight = 5
+name = "About"
+url = "/about"
+weight = 3
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 6
+weight = 4
