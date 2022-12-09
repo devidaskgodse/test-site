@@ -1,6 +1,6 @@
-baseURL = "https://devidaskgodse.github.io/test-site/"
+baseURL = "https://devidaskgodse.github.io"
 languageCode = "en-us"
-title = "My Test Hugo Site"
+title = "Devidas K Godse"
 theme="archie"
 
 copyright = "© Devidas K Godse"
@@ -27,7 +27,7 @@ url = "https://github.com/devidaskgodse"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://github.com/athulcajay/"
+url = "https://github.com/devidaskgodse/"
 
 [[params.social]]
 name = "LinkedIn"
