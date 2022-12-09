@@ -63,8 +63,8 @@ url = "/tools"
 weight = 4
 
 [[menu.main]]
-name = "Resources"
-url = "/resources"
+name = "Favourites"
+url = "/favourites"
 weight = 5
 
 [[menu.main]]

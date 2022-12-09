@@ -1,5 +1,5 @@
 ---
-title: "Collection of recommended tools"
+title: "Recommended Tools"
 date: 2022-09-27 06:35:00 +0530
 ---
 
@@ -16,4 +16,3 @@ date: 2022-09-27 06:35:00 +0530
 - [10 minute mail](https://10minutemail.com/)
 - [LaTeX equation editor](https://latex.codecogs.com/eqneditor/editor.php)
 - [When2meet](https://www.when2meet.com/)
-- 

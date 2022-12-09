@@ -1,5 +1,5 @@
 ---
-title: "Collection of favourite content on the web"
+title: "Some of my favorite content on the web"
 date: 2022-09-27 06:35:00 +0530
 ---
 
