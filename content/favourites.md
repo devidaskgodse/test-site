@@ -1,21 +1,26 @@
 ---
-title: "Some of my favorite content on the web"
+title: "Some of my favorite resources on the web"
 date: 2022-09-27 06:35:00 +0530
 ---
-
-
-## Singled out pieces
-- [How to Read a Research Paper](https://www.youtube.com/watch?v=cT-UrjqGQYY)
+## Single piece of work
 - [Jordan Peterson's video on why writing is critical thinking](https://www.youtube.com/watch?v=bfDOoADCfkg)
 - [Jordan Peterson's Essay Writing Guide](https://www.thadfordj.com/blog/10/2/jordan-peterson-on-the-power-of-writing)
 - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM)
-
+- [10 Overlooked Truths About Action | The Art of Manliness](https://www.artofmanliness.com/character/advice/10-overlooked-truths-about-taking-action/)
+- [The best stats you've ever seen - Hans Rosling | YouTube](https://www.youtube.com/watch?v=usdJgEwMinM)
+- [The Temptation - RyanHoliday.net](https://ryanholiday.net/the-temptation/)
+- [Sunday Firesides: Action Is Your Purpose | The Art of Manliness](https://www.artofmanliness.com/character/advice/sunday-firesides-action-is-your-purpose)
+- [How I Answer Email in 17 Minutes a Day - My System - YouTube](https://www.youtube.com/watch?v=uXdEVeoGRRc)
 ## Collections
-- [Beall's List](https://beallslist.net/)
-- [The Missing Semester](https://missing.csail.mit.edu/)
-- [Learn Git interactively](https://learngitbranching.js.org/)
-- [Python Programming Exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
-- [IIT Bombay Learner's Space 2020 Python Course](https://github.com/wncc/learners-space/tree/master/Python)
-- [IIT Bombay Learner's Space Machine Learning Course](https://github.com/wncc/learners-space/tree/master/Machine%20Learning)
-- [IIT Bombay Learner's Space Web Development Course](https://github.com/wncc/learners-space/tree/master/Web%20Development)
-- [Andy Matuschak's notes](https://notes.andymatuschak.org/)
+- [XKCD Comics](https://xkcd.com)
+- [Beall's List of Predatory Journals](https://beallslist.net/)
+- [The Missing Semester of Your CS Education | MIT](https://missing.csail.mit.edu/)
+- [Andy Matuschak's Notes](https://notes.andymatuschak.org/)
+- [Neil Kakkar's Blog'](https://neilkakkar.com/)
+- [Principiae](https://www.principiae.be)
+- [Longer lessons - Storytelling with Data | YouTube](https://youtube.com/playlist?list=PLwEff2aXpeWtV03WQQrRahloQY5tyuuXT)
+- [How to save the world - Vox | YouTube](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5dR1opfCsg8JmZSToyAWR5h)
+- [Farnam Street Blog (Articles)](https://fs.blog/blog/)
+- [Essays - Paul Graham](http://paulgraham.com/articles.html)
+- [Essays - David Perell](https://perell.com/essays/)
+- [Blog - Forte Labs](https://fortelabs.com/blog/)

@@ -1,7 +1,7 @@
 ---
-title: "How to take control of feedback loops in life"
+title: "How to take control of feedback loops in life?"
 date: 2022-09-27 7:27:00 +0530
-#tags: []
+tags: []
 ---
 
 |  | **what I don't do** | **what I do**|

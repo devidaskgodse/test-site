@@ -3,13 +3,11 @@ title: "Recommended Tools"
 date: 2022-09-27 06:35:00 +0530
 ---
 
-
 ## Reading and Content Writing
 - [Hemingway Editor](http://www.hemingwayapp.com/)
-- WordCounter
+- [Grammer and Spell Checker](https://www.websiteplanet.com/webtools/spell-checker/)
 - [bibtex-tidy](https://flamingtempura.github.io/bibtex-tidy/)
 - [Protected text](https://www.protectedtext.com/)
-
 ## Misc
 - [';--have i been pwned?](https://haveibeenpwned.com/)
 - [Table generator](https://www.tablesgenerator.com/)
