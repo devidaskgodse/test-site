@@ -39,6 +39,15 @@ name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/devidaskgodse/"
 
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "http://devidaskgodse.github.io/index.xml"
+
+[[params.social]]
+name = "Buy Me a Coffee"
+icon = "📖"
+url = "https://www.buymeacoffee.com/devidaskgodse"
 
 # Navigation Menu
 
