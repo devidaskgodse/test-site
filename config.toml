@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="light"
+	mode="toggle" # site modes: light, dark, toggle
 	useCDN=false
 	subtitle = "My tiny piece of the internet"
 
