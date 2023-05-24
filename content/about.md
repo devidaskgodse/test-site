@@ -8,7 +8,9 @@ I'm Devidas K Godse: a research scholar studying at [Department of Energy Scienc
 
 I enjoy learning about people, concepts and mental models. I also explore tools and technologies as they have potential to change the way we perceive and live in this world.
 
-Some recommendations
-- [Favourite XKCD Comics](/xkcd)
+## Some collections
+- [Technical Notes](/notes)
+<!-- - [People I Follow Online](/people) -->
 - [Recommended Tools](/tools)
-- [Favourite Content on the Internet](/favourites)
+- [Curated Content on the Internet](/favourites)
+- [My Favourite XKCD Comics](/xkcd)
