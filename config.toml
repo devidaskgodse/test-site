@@ -27,7 +27,7 @@ url = "https://github.com/devidaskgodse"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://github.com/devidaskgodse/"
+url = "https://twitter.com/devidaskgodse"
 
 [[params.social]]
 name = "LinkedIn"
@@ -44,10 +44,10 @@ name = "RSS"
 icon = "rss"
 url = "http://devidaskgodse.github.io/index.xml"
 
-[[params.social]]
-name = "Buy Me a Coffee"
-icon = "📖"
-url = "https://www.buymeacoffee.com/devidaskgodse"
+#[[params.social]]
+#name = "Buy Me a Coffee"
+#icon = "https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg"
+#url = "https://www.buymeacoffee.com/devidaskgodse"
 
 # Navigation Menu
 
