@@ -14,3 +14,6 @@ I enjoy learning about people, concepts and mental models. I also explore tools 
 - [Recommended Tools](/tools)
 - [Curated Content on the Internet](/favourites)
 - [My Favourite XKCD Comics](/xkcd)
+
+---
+Content on this website is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>.

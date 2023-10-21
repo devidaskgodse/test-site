@@ -43,8 +43,6 @@ Our goal seems to be passing on genes and knowledge both. That's why we build br
 Speaker: Yes it is. I am sharing a perception of the world. Something I feel is worth putting forward so that someone might keep it alive through time.
 
 ---
-<footer>  
 Content licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>.
-</footer>
 
 [Lucy]: <https://www.imdb.com/title/tt2872732/> "Lucy (2014) - IMDb"

@@ -4,8 +4,6 @@ date: 2022-09-27 7:27:00 +0530
 tags: []
 ---
 
-# Hammers
-
 > I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.  
 > ~ Abraham Maslow
 
@@ -18,6 +16,4 @@ tags: []
 This is an experimentation with the idea of [Maslow's hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument).
 
 ---
-<footer>  
 Content licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>.
-</footer>
