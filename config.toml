@@ -44,6 +44,7 @@ name = "RSS"
 icon = "rss"
 url = "http://devidaskgodse.github.io/index.xml"
 
+#TODO
 #[[params.social]]
 #name = "Buy Me a Coffee"
 #icon = "https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg"
